@@ -1,14 +1,6 @@
-# Basic
 streamlit
-
-# Data + utils
 pandas
 numpy
 scikit-learn
 joblib
 requests
-
-# RL dependencies (may be heavy and sometimes fail to build on Streamlit Cloud)
-gymnasium
-stable-baselines3
-torch>=2.3
